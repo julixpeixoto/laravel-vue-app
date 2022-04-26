@@ -3,7 +3,9 @@
 ### How to run
 
 ```
-npm install && npm run
-php artisan serve
+$ composer install
+$ npm install && npm run
+$ php artisan key:generate
+$ php artisan serve
 ```
 
